@@ -28,19 +28,20 @@ Dynamsisk testning - indatan matas in.
 ===========================
 TestFall med förväntat resultat. (pass/fail)
 
-Test to pass:             Förväntat Utfall:            Resultat/Kommentar:                 
-Alla lika:
+    Test to pass:         Förväntat Utfall:             Resultat/Kommentar:                 
+    
+    Alla lika:
 
     0.0 0.0 0.0           Pass                          Liksidig, förväntat resultat.
     1.5 1.5 1.5           Pass                          Liksidig, förväntat resultat.
     
-två lika:
+    två lika:
 
     3.0 3.0 1.0           Pass                          Likbent, förväntat resultat.
     2.4 1.8 2.4           Pass                          Likbent, förväntat resultat.
     4.0 2.0 2.0           Pass                          Likbent, förväntat resultat.
     
-Olika:
+    Olika:
 
     8.6 4.3 2.5           Pass                          Inga lika sidor, förväntat resultat.
     9.9 0.1 3.9           Pass                          Inga lika sidor, förväntat resultat.
@@ -52,7 +53,7 @@ Olika:
     3.0 2.0 3.5           Pass                          Likbent, oväntat resultat.
     
 
-Test to fail:
+    Test to fail:
 
     -0.5 -0.5 -1.0        Fail                          Likbent, oväntat resultat.
     2.0 -2.0 2.0          Fail                          Likbent, oväntat resultat.
