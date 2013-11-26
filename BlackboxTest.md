@@ -28,36 +28,36 @@ Dynamsisk testning - indatan matas in.
 ===========================
 TestFall med förväntat resultat. (pass/fail)
 
-Test to pass:             Förväntat Utfall:            Kommentar:                 
+Test to pass:             Förväntat Utfall:            Resultat/Kommentar:                 
 Alla lika:
 
-    0.0 0.0 0.0           Pass
-    1.5 1.5 1.5           Pass
+    0.0 0.0 0.0           Pass                          Liksidig, förväntat resultat.
+    1.5 1.5 1.5           Pass                          Liksidig, förväntat resultat.
     
 två lika:
 
-    3.0 3.0 1.0           Pass
-    2.4 1.8 2.4           Pass           
-    4.0 2.0 2.0           Pass
+    3.0 3.0 1.0           Pass                          Likbent, förväntat resultat.
+    2.4 1.8 2.4           Pass                          Likbent, förväntat resultat.
+    4.0 2.0 2.0           Pass                          Likbent, förväntat resultat.
     
 Olika:
 
-    8.6 4.3 2.5           Pass
-    9.9 0.1 3.9           Pass
+    8.6 4.3 2.5           Pass                          Inga lika sidor, förväntat resultat.
+    9.9 0.1 3.9           Pass                          Inga lika sidor, förväntat resultat.
     
-    4.0 5.0 1.0           Pass
-    2.4 3.1 2.5           Pass        
+    4.0 5.0 1.0           Pass                          Inga lika sidor, förväntat resultat.
+    2.4 3.1 2.5           Pass                          Likbent, oväntat resultat.
     
-    1.5 2.5 3.0           Pass
-    3.0 2.0 3.5           Pass
+    1.5 2.5 3.0           Pass                          Inga lika sidor, förväntat resultat.
+    3.0 2.0 3.5           Pass                          Likbent, oväntat resultat.
     
 
 Test to fail:
 
-    -0.5 -0.5 -1.0        Fail
-    2.0 -2.0 2.0          Fail
-    -4.9 3.3 7.0          Fail    
-    99999999999.999999999999999999999.9999999999 99999999999.9999999999     Fail
+    -0.5 -0.5 -1.0        Fail                          Likbent, oväntat resultat.
+    2.0 -2.0 2.0          Fail                          Likbent, oväntat resultat.
+    -4.9 3.3 7.0          Fail                          Inga lika sidor, oväntat resultat-
+    99999999999.9999999999 99999999999.9999999999 99999999999.9999999999     Fail  Unhandled Exception, förväntat resultat.  
     
 Upprepa: (tills nöjd)
 
