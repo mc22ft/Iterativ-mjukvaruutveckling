@@ -62,5 +62,9 @@ TestFall med förväntat resultat. (pass/fail)
     
 Upprepa: (tills nöjd)
 
+    2.0 1.0 3.0           Fail                          Inga lika sidor, oväntat resultat.              
+    5.5 1.5 8.0           Fail                          Inga lika sidor, oväntat resultat. 
+    -4.0 -2.0 -6.0        Fail                          Inga lika sidor, oväntat resultat. 
+    
 Analysera ev. felaktigheter och sammanfatta i din testrapport:
 ===========================
