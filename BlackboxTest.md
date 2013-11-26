@@ -60,11 +60,35 @@ TestFall med förväntat resultat. (pass/fail)
     -4.9 3.3 7.0          Fail                          Inga lika sidor, oväntat resultat-
     99999999999.9999999999 99999999999.9999999999 99999999999.9999999999     Fail  Unhandled Exception, förväntat resultat.  
     
-Upprepa: (tills nöjd)
+Upprepning 1 (upprepa tills nöjd)
 
-    2.0 1.0 3.0           Fail                          Inga lika sidor, oväntat resultat.              
-    5.5 1.5 8.0           Fail                          Inga lika sidor, oväntat resultat. 
-    -4.0 -2.0 -6.0        Fail                          Inga lika sidor, oväntat resultat. 
-    
+    2.0 1.0 3.0           Fail                          Inga lika sidor, oväntat resultat. Trodde på likbent.              
+    5.5 1.5 8.0           Fail                          Inga lika sidor, oväntat resultat. Trodde på likbent.  
+    -4.0 -2.0 -6.0        Fail                          Inga lika sidor, oväntat resultat. Trodde på likbent.  
+
+Upprepning 2
+
+    2.0 2.5 5.0           Fail                          Likbent, förväntat resultat. Rätt ska va inga lika sidor. 
+    6.1 6.9 3.4           Fail                          Likbent, förväntat resultat. Rätt ska va inga lika sidor. 
+    4.3 4.4 6.0           Fail                          Likbent, förväntat resultat. Rätt ska va inga lika sidor. 
+
+Upprepning 3
+
+    4.5 4.6 4.7           Fail                          Liksidig, oväntat resultat. Rätt ska va inga lika sidor. 
+
 Analysera ev. felaktigheter och sammanfatta i din testrapport:
 ===========================
+
+Efter mina tester av Trinagel.exe. Kan jag märka en bugg i systemet. Men jag böjar med mitt test på rad 61. Där jag 
+la in 10st 9 komma/punkt 10st 9 igen. För att testa programmets kapacitet. Jag fick ett Unhadled exeption på det. La
+inte mer tid för tester på det. Det rätta i detta läget är att titta i systemet på hur mycket man kan mata in. Jag la
+inte heller mer tid på negativa tal då jag märker att systemet hanterar dessa samma som poseriva tal.
+
+Buggen som jag upptäkte först var på rad 50 och 53. Då jag skulle ha haft olika sidor på triangeln men fick likbent på 
+båda av dessa. Efter lite analys av inskickat värde misstänkte jag att det var något med ordningen. Att i mina tester
+hade jag det mellersta värdet först. Testade på nytt, utan resultat. Analyserade på nytt. Såg att det var två av 
+värderna som var på samma heltal. Testade på detta i upprepning 2. Konstaterade att detta var det som var fel. Systemet
+läser inte av decimal tal. Utan läser bara av första talet av värdet. 
+Jag gjorde ett sista test. Skickade in 3 olika fast inom samma heltal. Fick som förväntat ut en liksidig triangel. Detta
+gjorde mig mer säker på att jag hade rätt.
+
