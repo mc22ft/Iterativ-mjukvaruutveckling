@@ -3,16 +3,10 @@ Whitebox Test Triangel
 
 Analys:
 
-Första analys av koden ser jag en struct, Point som tar två int. Jag kan även se att båda konstruktorna i Triangel klassen
-anropar Point. Där ser jag ett problem som jag kan referera till blackbox testet. Finns 4 kostruktorer att anropa.
+    Första analys av koden ser jag en struct, Point som tar två int. Jag kan även se att två av konstruktorna i Triangel      klassen anropar Point. Detta återkommer jag till. Det finns även tre metoder för varje modell av triangel som ska va      möjligt att få ut. Alla av dessa tre kan returnera true eller false. 
+    
+    En snabb slutsats så tänker jag att felet som finns från blackox testet finns i structen point. Men då jag har set i      koden och testat lite så vet jag att den kan även ta double. Så mitt test i blackbox att programet inte kan ta ett        decemal tal stämmer inte.
+    
+Slut Analys:
 
-
-
-
-Observera att unit testningen kräver att koden och projekten inte ligger på en nätverksdisk. Ni kan alltså inte 
-ha detta på p:
-
-Analysera koden för den givna klassen (Triangle).
-Implementera enhetstester som täcker funktionaliteten i klassen.
-Utför enhetstesterna och korrigera de fel/defekter/brister du hittar om du satsar på betyg över 3.
-Upprepa steg från steg 1 tills du är nöjd.
+    Då jag testat metoderna och analyserat koden. Och genom tester set hur programet beter sig. Kan jag se i mina             "standard" tester att koden inte är rätt. Och jag har kontrollerat min tidigare misstanke om att koden inte kunde         hantera decemal tal. Då jag får resultatet från mina tester så vet jag sen innan att det måste vara fel på                uträkningen. Källa: Att det kan va bra att kunna Pythagoras sats och lite om det tvådimensionella Kartesiska              koordinatsystemet från uppgift beskrinvningen. Och detta kan jag se då testerna visar false när det ska va true och       vise varse.
