@@ -10,3 +10,9 @@ C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär
 C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\Try\bin\Debug\Try.exe
 C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\Try\bin\Debug\Try.pdb
 C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\Try\obj\Debug\Try.csprojResolveAssemblyReference.cache
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\Try\bin\Debug\Try.exe.config
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\Try\obj\Debug\Try.exe
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\Try\obj\Debug\Try.pdb
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\Try\bin\Debug\Try.exe
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\Try\bin\Debug\Try.pdb
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\Try\obj\Debug\Try.csprojResolveAssemblyReference.cache

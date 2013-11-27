@@ -12,3 +12,10 @@ C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär
 C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\UnitTestTry\obj\Debug\UnitTestTry.csprojResolveAssemblyReference.cache
 C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\UnitTestTry\obj\Debug\UnitTestTry.dll
 C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\UnitTestTry\obj\Debug\UnitTestTry.pdb
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\UnitTestTry\obj\Debug\UnitTestTry.csprojResolveAssemblyReference.cache
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\UnitTestTry\obj\Debug\UnitTestTry.dll
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\UnitTestTry\obj\Debug\UnitTestTry.pdb
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\UnitTestTry\bin\Debug\UnitTestTry.dll
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\UnitTestTry\bin\Debug\UnitTestTry.pdb
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\UnitTestTry\bin\Debug\Try.exe
+C:\GitHub\Iterativ-mjukvaruutveckling\Whtiebox Test kod\UnitTestTry\bin\Debug\Try.pdb
