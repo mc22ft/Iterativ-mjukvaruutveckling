@@ -85,6 +85,41 @@ namespace UnitTestTry
 
 
 
+        [TestMethod]
+        public void isIsoscelesTest1()   //Likbent
+        {
+            //Skickar in liksidig för att få false tillbaka
+
+            Triangle triangle = new Triangle(2.5, 2.5, 2.5);
+            Assert.IsTrue(triangle.isScalene());
+
+            //Returnerar true!
+        }
+
+        [TestMethod]
+        public void isIsoscelesTest2()   //Likbent
+        {
+            //Skickar in likbent för att få true tillbaka
+
+            Triangle triangle = new Triangle(2.5, 2.5, 4.5);
+            Assert.IsFalse(triangle.isScalene());
+
+            //Returnerar false!
+        }
+
+        [TestMethod]
+        public void isIsoscelesTest3()   //Likbent
+        {
+            //Skickar in olika sidor för att få false tillbaka
+
+            Triangle triangle = new Triangle(2.5, 3.5, 4.5);
+            Assert.IsFalse(triangle.isScalene());
+
+            //Returnerar false!
+        }
+
+
+
         
     }
 }
