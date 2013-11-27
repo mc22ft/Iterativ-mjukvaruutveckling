@@ -1,0 +1,12 @@
+C:\000. Skolan\Iterativ mjukvaruutveckling\Try\bin\Debug\Try.exe.config
+C:\000. Skolan\Iterativ mjukvaruutveckling\Try\bin\Debug\Try.exe
+C:\000. Skolan\Iterativ mjukvaruutveckling\Try\bin\Debug\Try.pdb
+C:\000. Skolan\Iterativ mjukvaruutveckling\Try\obj\Debug\Try.csprojResolveAssemblyReference.cache
+C:\000. Skolan\Iterativ mjukvaruutveckling\Try\obj\Debug\Try.exe
+C:\000. Skolan\Iterativ mjukvaruutveckling\Try\obj\Debug\Try.pdb
+C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\Try\bin\Debug\Try.exe.config
+C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\Try\obj\Debug\Try.exe
+C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\Try\obj\Debug\Try.pdb
+C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\Try\bin\Debug\Try.exe
+C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\Try\bin\Debug\Try.pdb
+C:\Users\Mathias\Dropbox\Iterativ mjukvaruutveckling\samma fast från stationär\Try\obj\Debug\Try.csprojResolveAssemblyReference.cache
