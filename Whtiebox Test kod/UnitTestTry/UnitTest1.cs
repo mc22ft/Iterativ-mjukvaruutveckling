@@ -6,15 +6,7 @@ namespace UnitTestTry
     [TestClass]
     public class TriagleUnitTest1
     {
-        /*
-        [TestMethod]
-        public void testOfConstructorn()
-        {
-            Triangle test1 = new Triangle(1.5, 2, 3);
         
-        }
-        */
-
         [TestMethod]
         public void isScaleneTest1()    //Inga lika sidor
         {
@@ -34,7 +26,7 @@ namespace UnitTestTry
             Triangle triangle = new Triangle(2.5, 2.5, 4.5);
             Assert.IsFalse(triangle.isScalene());
 
-            //Returnerar true!
+            //Returnerar false!
         }
 
         [TestMethod]
@@ -117,9 +109,6 @@ namespace UnitTestTry
 
             //Returnerar false!
         }
-
-
-
         
     }
 }
