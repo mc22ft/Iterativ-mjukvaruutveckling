@@ -1,5 +1,10 @@
 Scrum med mitt projekt arbete i Javascript.
 
+Mitt egna krav.
+Målet med Javascriptet kursen, som detta Scrum är baserat på. Är att klara 
+av kraven till betygs nivå 3.
+
+
 Länk till Product backlog och Sprint backlok.
 https://docs.google.com/a/student.lnu.se/spreadsheet/ccc?key=0AihfBb1L7qlZdC1hTldPeXU2dWNiYzdCM2VXb2Fob3c&usp=drive_web#gid=0
 
@@ -7,9 +12,28 @@ Länk till Burn down shart.
 https://docs.google.com/a/student.lnu.se/spreadsheet/ccc?key=0AihfBb1L7qlZdGRMZVZjMVlScDVEWnNSbWhlWE4tcXc#gid=0
 
 
-
-
-
 Gå igenom din applikation, uppfyllde du målen? Kunde du jobbat mer, mindre? 
 Vad har ändrats i kraven (product backlog)? Något som ska bort eller läggas 
-till i kraven? Vad ska prioriteras om? Vad gick bra vad gick dåligt? (Sprint Review, Sprint Retrospective)
+till i kraven? Vad ska prioriteras om? Vad gick bra vad gick dåligt? (
+
+
+Sprint Review
+Presentationn av applikationen. Obs ej demo!
+
+
+Sprint Retrospective
+Huvudmålet uppfylldes, applikationen är klar och uppfyller alla krav. Det som jag ändrade på 
+i kraven var ordningen. 
+Jag tycker att min product backlog var bra. Lite sämre på sprint backlog. Jag hade delat upp 
+det i halvdags sprintar. Det var lite krångligt att hålla koll på Burn down shart. Blev inte 
+riktigt jämnt tänk. Skulle nog minst ha varit heldags sprintar.
+På grund av applikationen inte var så stor. Valde jag medvetet att ta med lite mindre tasks. 
+Viktigt att tänka på är att ha jämna taskt så att tiden stämmer när det börjar närma sig slutet.
+Nu hade jag tiden på min sida, men kunde lika väll varit åt andra hållet. Märker att det är 
+svårt att uppskatta tiden på sprintarna helt på egen hand. 
+
+
+På svenska: återblick. Alla gruppmedlemmar samt scrum master och 
+produktägare arbetar tillsammans för att lära sig från sprinten 
+som gått. Förbättringar i arbetssättet identifieras, och ett antal 
+saker väljs ut och åtgärdas i kommande sprint.
